@@ -39,7 +39,7 @@ public class DemoA {
 	}
 	// Coming from GitHub
 	public void message2(){
-		Systemout.println("Good Job Yasa");
+		System.out.println("Good Job Yasa");
 	}
 	
 }
