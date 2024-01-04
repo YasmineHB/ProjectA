@@ -37,4 +37,9 @@ public class DemoA {
 	public void message(){
 		System.out.println("Good Job Yasa");
 	}
+	// Coming from GitHub
+	public void message2(){
+		Systemout.println("Good Job Yasa");
+	}
+	
 }
