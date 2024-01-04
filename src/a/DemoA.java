@@ -35,6 +35,6 @@ public class DemoA {
 
 	// Coming from GitHub
 	public void message(){
-		System.out.println("Good Job Princess Yasmine");
+		System.out.println("Good Job Yasa");
 	}
 }
