@@ -4,7 +4,10 @@ public class DemoA {
 
 	public static void main(String[] args) {
 		System.out.println("Monday");
-
+		
+		add(1, 2);
+		subtract(3,4);
+		
 		System.out.println("Sprint 1 Work ...");
 		System.out.println("Sprint 2 Work ...");
 	}
