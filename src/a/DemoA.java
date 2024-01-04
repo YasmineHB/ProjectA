@@ -32,4 +32,9 @@ public class DemoA {
 	public static void Multiply(int a, int b) {
 		System.out.println(a * b);
 	}
+
+	// Coming from GitHub
+	public void message(){
+		Systemout.println("Good Job Princess Yasmine");
+	}
 }
